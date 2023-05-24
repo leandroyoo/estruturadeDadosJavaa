@@ -79,12 +79,36 @@ Declarando um Vetor String e lendo suas respectivas posições
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/6b56228e-baf1-4ee0-b5c6-39d968a7f9ab)
 
 
+Fazendo uma busca dentro do vetor 
+--
+Digamos que queremos verificar se determinado existe dentro do vetor .. 
+
+criamos e importamos o scaner 
+
+
+Criando
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/01f9a719-ccd4-440b-94d4-87802a28882d)
+
+Importando 
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/f9fff3a4-6c7e-4ea1-b444-4c97423f29fa)
+
+
+apos isso vamos trabalhar com o scanner 
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/9cfbfb36-8fee-49d3-a9f9-6aa73a1d3fcd)
 
 
 
+ou seja como temos um tipo texto utilizamos 
 
 
+e faz com que o nextLine aguarde uma entrada do usuário.
 
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/3e58d05b-7a33-4c15-88b9-e8ad300e21cf)
+
+
+            então a siglaBusca recebera o valor que o usuario digitar
 
 
 
