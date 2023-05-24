@@ -8,6 +8,7 @@ As variaveis não armazenas mais de um valor elas apenas substituem os valores e
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/10bc7281-13f0-442e-8fe5-db3ebb7ea446)
 
+      obs: nesse exemplo ele vai imprimir a o 4 ;
 Vetores
 ---
 O vetor é uma lista
@@ -21,7 +22,7 @@ O nosso vetorzão tem 10 posições
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/01c1069c-effe-4cd7-9f0d-00a2d7a0fe6b)
 
-      obs: nesse exemplo ele vai imprimir a o 4 ;
+
 
 introdução
 ---
