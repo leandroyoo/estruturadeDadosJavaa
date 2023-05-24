@@ -158,9 +158,9 @@ e se ele percorrer aquele indice dos estaos que foi atribuido a elemento e compa
 Melhorando o código de buscar linear
 ---
 
-aqui vamos declarar uma variável booleana que recebe false
+declaramos uma variável booleana que recebe false
 
-e quando ela encontrar vai pro break encerrar o loop 
+e quando ela encontrar se tornar (true) vai pro break encerrar o loop 
 
 ai teremos uma condicional que vai dizer 
 se a variavel ficar verdeira (true) ela diz encontrou
