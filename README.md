@@ -112,6 +112,20 @@ e faz com que o nextLine aguarde uma entrada do usuário.
             
             
             
+
+
+
+ 
+fazendo assim o loop vai procurar nos indices dos estados atribuir a elemento comparar com buscaSilga e se ele encontrar/se for igual
+ele vai dizer "achou" e vai para o break saindo do loop.
+
+e se ele percorrer aquele indice dos estaos que foi atribuido a elemento e comparar com a siglaBusca e não econtrar/não for igual ele       vai cair no else e vai dizer "nao achou". 
+
+                 
+                 
+Busca Linear                
+---
+
  A busca linear fará como que 
  
  A variavel elemento receba o valor da indice do vetor estado
@@ -125,18 +139,6 @@ O método equals é utilizado para comparações. A classe String e as classes W
 
             então dentro de elemento que a mágica da comparação acontece pois ele recebe o valor de cada indice e
             vai indo de posição em posição até encontrar o valor digitao na siglaBusca
-
-
- 
-fazendo assim o loop vai procurar nos indices dos estados atribuir a elemento comparar com buscaSilga e se ele encontrar/se for igual
-ele vai dizer "achou" e vai para o break saindo do loop.
-
-e se ele percorrer aquele indice dos estaos que foi atribuido a elemento e comparar com a siglaBusca e não econtrar/não for igual ele       vai cair no else e vai dizer "nao achou". 
-
-                 
-                 
-Busca Linear                
----
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/9886355e-3762-4d5f-b088-fc566e8b6b36)
 
 
