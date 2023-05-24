@@ -21,6 +21,8 @@ O nosso vetorzão tem 10 posições
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/01c1069c-effe-4cd7-9f0d-00a2d7a0fe6b)
 
+      obs: nesse exemplo ele vai imprimir a o 4 ;
+
 introdução
 ---
 
