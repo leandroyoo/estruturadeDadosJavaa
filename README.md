@@ -38,7 +38,7 @@ atribuindo valores ao vetor e imprimindo a posição 0
 ou seja na posição 0 do vetor temos o valor 3 
 
 
-![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/b48fcf5a-91a4-4dfe-8536-dec18f12b283)
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/65c5ff06-e8ec-470b-b1c4-284bf76fd145)
 
 
 
