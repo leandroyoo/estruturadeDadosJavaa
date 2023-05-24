@@ -134,7 +134,8 @@ O método equals é utilizado para comparações. A classe String e as classes W
 
 
             então dentro de elemento que a mágica da comparação acontece pois ele recebe o valor de cada indice e
-            vai indo de posição em posição percorrendo todas as posições do vetor até encontrar o valor digitao na siglaBusca
+            vai indo de posição em posição percorrendo todas as posições do vetor 
+            tentando encontrar o valor digitado na siglaBusca
             
 fazendo assim o loop vai procurar nos indices dos estados atribuir a elemento comparar com buscaSilga e se ele encontrar/se for igual
 ele vai dizer "achou" e vai para o break saindo do loop.
