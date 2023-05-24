@@ -109,6 +109,27 @@ e faz com que o nextLine aguarde uma entrada do usuário.
 
 
             então a siglaBusca recebera o valor que o usuario digitar
+            
+            
+            
+ A busca linear fará como que 
+ 
+ A variavel elemento receba o valor da posição do estao do loop
+ 
+ então o if vai pegar o elemento e comparar com o siglaBusca utilizando o .equals 
+ 
+fazendo assim o loop vai procurar na posições do estados e se ele encontrar
+ele vai dizer "achou" e vai para o break saindo do loop.
+
+se ele percorrer aquela posição e não encontrar ele vai cair no else
+e vai dizer "nao achou". 
+
+            então dentro de elemento que a mágica da comparação acontece pois ele vai             indo de posição em posição até encontrar o valor digitao na siglaBusca
+
+
+
+ ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/6c819345-5b33-4827-8a55-9ef92c9c9544)
+
 
 
 
