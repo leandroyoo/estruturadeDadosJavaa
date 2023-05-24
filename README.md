@@ -34,8 +34,19 @@ o new int[10] serve para instanciar um vetor com o tamanho de 10 posições
 
 atribuindo valores ao vetor e imprimindo a posição 0
 --
+ou seja :
 
-ou seja na posição 0 do vetor temos o valor 3 
+na posição 0 do vetor temos o valor 3 
+
+na posição 1 do vetor temos o valor 4
+
+na posição 2 do vetor temos o valor 8 
+ 
+ e assim sucessivamente
+
+obs: as posições que não foram preenchidas vão está com o valor 0 num vetor int
+
+obs: a posição é referente ao indice do vetor e nessa posição será armazenado o valor(dado).
 
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/65c5ff06-e8ec-470b-b1c4-284bf76fd145)
