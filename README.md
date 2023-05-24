@@ -124,9 +124,8 @@ ele vai dizer "achou" e vai para o break saindo do loop.
 se ele percorrer aquela posição e não encontrar ele vai cair no else
 e vai dizer "nao achou". 
 
-            então dentro de elemento que a mágica da comparação acontece pois ele vai            
-            
-            indo de posição em posição até encontrar o valor digitao na siglaBusca
+            então dentro de elemento que a mágica da comparação acontece pois ele recebe o valor de cada indice e
+            vai indo de posição em posição até encontrar o valor digitao na siglaBusca
 
 
 
