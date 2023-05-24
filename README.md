@@ -131,8 +131,7 @@ ele vai dizer "achou" e vai para o break saindo do loop.
 
 e se ele percorrer aquele indice dos estaos que foi atribuido a elemento e comparar com a siglaBusca e não econtrar/não for igual ele       vai cair no else e vai dizer "nao achou". 
 
-                 conclusão: para ocorrer essa busca teremos que criar uma variavel para ir pegando o valor de cada indice e 
-                 é comparando até encontrar um valor que seja oque queremos.
+                 
                  
 Busca Linear                
 ---
@@ -141,7 +140,8 @@ Busca Linear
 
 
 
-
+                  conclusão: para ocorrer essa busca teremos que criar uma variavel para ir pegando o valor de cada indice e 
+                 é comparando até encontrar um valor que seja oque queremos.
 
 
 
