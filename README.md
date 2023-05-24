@@ -114,7 +114,9 @@ e faz com que o nextLine aguarde uma entrada do usuário.
             
  A busca linear fará como que 
  
- A variavel elemento receba o valor da posição do estao do loop
+ A variavel elemento receba o valor da indice do vetor estado
+ 
+ e o loop vai indo de posição em posição atribuindo sempre um novo valor aquela várivel
  
   então o if vai pegar o elemento e comparar com o siglaBusca utilizando o .equals()
   
