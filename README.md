@@ -27,6 +27,8 @@ introdução
 
 Como declarar um vetor em java 
 ---
+o new int serve para instanciar o vetor 
+
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/5b4206b9-f80e-4684-a38e-5cd7f6f2683d)
 
