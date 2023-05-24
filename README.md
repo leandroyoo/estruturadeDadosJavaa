@@ -133,9 +133,10 @@ e se ele percorrer aquele indice dos estaos que foi atribuido a elemento e compa
 
                  conclusão: para ocorrer essa busca teremos que criar uma variavel para ir pegando o valor de cada indice e 
                  é comparando até encontrar um valor que seja oque queremos.
-
- ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/6c819345-5b33-4827-8a55-9ef92c9c9544)
-
+                 
+Busca Linear                
+---
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/9886355e-3762-4d5f-b088-fc566e8b6b36)
 
 
 
