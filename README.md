@@ -131,7 +131,7 @@ ele vai dizer "achou" e vai para o break saindo do loop.
 
 e se ele percorrer aquele indice dos estaos que foi atribuido a elemento e comparar com a siglaBusca e não econtrar/não for igual ele       vai cair no else e vai dizer "nao achou". 
 
-                 conclusão: para ocorrer essa busca teremos que criar uma variavel para ir pegando cada valor do indice e 
+                 conclusão: para ocorrer essa busca teremos que criar uma variavel para ir pegando o valor de cada indice e 
                  é comparando até encontrar um valor que seja oque queremos.
 
  ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/6c819345-5b33-4827-8a55-9ef92c9c9544)
