@@ -6,7 +6,7 @@ Introdução as variaveis
 ---
 As variaveis não armazenas mais de um valor elas apenas substituem os valores existem por outros.
 
-![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/5523456a-afb2-4db0-bc5d-465327466b34)
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/10bc7281-13f0-442e-8fe5-db3ebb7ea446)
 
 Vetores
 ---
