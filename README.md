@@ -150,8 +150,8 @@ e se ele percorrer aquele indice dos estaos que foi atribuido a elemento e compa
 
 
 
-                  conclusão: para ocorrer essa busca teremos que criar uma variavel para ir pegando o valor de cada indice e 
-                 é comparando até encontrar um valor que seja oque queremos.
+            conclusão: para ocorrer essa busca teremos que criar uma variavel para ir pegando o valor de cada indice e 
+            é comparando até encontrar um valor que seja oque queremos.
 
 
 
