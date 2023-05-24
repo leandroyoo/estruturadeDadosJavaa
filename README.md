@@ -168,7 +168,20 @@ se a variavel continuar falso(false) ela diz não encontrou
 
 então terremos ela dizendo se encontrou ou nao encontro! sem escrever não encontrou diversas vezes
 
-![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/5b97a2a5-26ff-4260-9280-f9e045861736)
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/ccb8d9e3-d45c-43b8-a34a-69d5b4bd8961)
+
+
+
+resultado:
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/d91f5191-0441-4e95-a216-d6251df85bea)
+
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/376a33f8-f73a-4f19-9127-dfa692690c4c)
+
+
+
+
 
 
 
