@@ -155,6 +155,20 @@ e se ele percorrer aquele indice dos estaos que foi atribuido a elemento e compa
 
 
 
+Melhorando o código de buscar linear
+---
+
+aqui vamos declarar uma variável booleana que recebe false
+
+e quando ela encontrar vai pro break encerrar o loop 
+
+ai teremos uma condicional que vai dizer 
+se a variavel ficar verdeira (true) ela diz encontrou
+se a variavel continuar falso(false) ela diz não encontrou
+
+então terremos ela dizendo se encontrou ou nao encontro! sem escrever não encontrou diversas vezes
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/5b97a2a5-26ff-4260-9280-f9e045861736)
 
 
 
