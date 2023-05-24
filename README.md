@@ -133,7 +133,7 @@ Busca Linear
 O método equals é utilizado para comparações. A classe String e as classes Wrapper sobrescrevem equals() para garantir que dois objetos desses tipos, com o mesmo conteúdo, possam ser considerados iguais.
 
 
-            então dentro de elemento que a mágica da comparação acontece pois ele recebe o valor de cada indice e
+            então dentro da variável elemento que a mágica da comparação acontece pois ele recebe o valor de cada indice e
             vai indo de posição em posição percorrendo todas as posições do vetor 
             tentando encontrar o valor digitado na siglaBusca
             
