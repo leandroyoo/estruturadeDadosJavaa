@@ -63,6 +63,38 @@ com uma estrutura for poderemos usar o length para pegar o tamanho do vetor e co
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/a5ef0ca7-efc3-411b-83a4-42f7f42e4eda)
 
-Vetor de String's
+Vetor de String e Busca Linear 
 ---
+
+Nesse caso vamos ter um vetor com letras que são dados do tipo string. 
+
+Listas com 10 estados.
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/8ed46480-1e6a-4d0e-b2cb-5c8061c457bc)
+
+
+
+Declarando um Vetor String e lendo suas respectivas posições
+---
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/6b56228e-baf1-4ee0-b5c6-39d968a7f9ab)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
