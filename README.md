@@ -116,18 +116,23 @@ e faz com que o nextLine aguarde uma entrada do usuário.
  
  A variavel elemento receba o valor da posição do estao do loop
  
- então o if vai pegar o elemento e comparar com o siglaBusca utilizando o .equals 
- 
-fazendo assim o loop vai procurar na posições do estados e se ele encontrar
-ele vai dizer "achou" e vai para o break saindo do loop.
+  então o if vai pegar o elemento e comparar com o siglaBusca utilizando o .equals()
+  
+O método equals é utilizado para comparações. A classe String e as classes Wrapper sobrescrevem equals() para garantir que dois objetos desses tipos, com o mesmo conteúdo, possam ser considerados iguais.
 
-se ele percorrer aquela posição e não encontrar ele vai cair no else
-e vai dizer "nao achou". 
 
             então dentro de elemento que a mágica da comparação acontece pois ele recebe o valor de cada indice e
             vai indo de posição em posição até encontrar o valor digitao na siglaBusca
 
 
+ 
+fazendo assim o loop vai procurar nos indices dos estados atribuir a elemento comparar com buscaSilga e se ele encontrar/se for igual
+ele vai dizer "achou" e vai para o break saindo do loop.
+
+e se ele percorrer aquele indice dos estaos que foi atribuido a elemento e comparar com a siglaBusca e não econtrar/não for igual ele       vai cair no else e vai dizer "nao achou". 
+
+                 conclusão: para ocorrer essa busca teremos que criar uma variavel para ir pegando cada valor do indice e 
+                 é comparando até encontrar um valor que seja oque queremos.
 
  ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/6c819345-5b33-4827-8a55-9ef92c9c9544)
 
