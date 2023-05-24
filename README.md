@@ -52,6 +52,13 @@ obs: a posição é referente ao indice do vetor e nessa posição será armazen
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/65c5ff06-e8ec-470b-b1c4-284bf76fd145)
 
 
+lendo um vetor com uma estrutura de repetição
+--
+com uma estrutura for poderemos usar o length para pegar o tamanho do vetor e com uma variavel de controle vamos percorrer cada posição do indice do vetor 
+
+
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/a5ef0ca7-efc3-411b-83a4-42f7f42e4eda)
 
 
 
