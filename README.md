@@ -182,7 +182,10 @@ resultado:
 
 
 
-
+..
+---
+Lista Ligada (Lista Encadeada)
+---
 
 
 
