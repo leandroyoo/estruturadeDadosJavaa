@@ -250,6 +250,7 @@ voltando pra lista ligada vamos:
 - ajustar o ELEMENTO ( o elemento é aquela bolinha da representação ou seja ela sabe quem é o primeiro e ultimo elemento)
 
 execução
+
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/66ab524d-9fb4-41e7-b804-04adefc42776)
 
 
