@@ -340,6 +340,7 @@ A classe Elemento executa o metodo construtor recebendo esse valor
 
 passa o dado inserido para o atributo valor do objeto instanciado
 
+pois o objeto(novoElemento) e esse dado(novoValor) passam a existir
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/4264823b-e8e9-448c-b0bc-8351c4f5acab)
 
