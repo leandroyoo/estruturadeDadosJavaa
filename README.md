@@ -190,17 +190,90 @@ Lista Ligada (Lista Encadeada)
 Na lista ligada os elementos não tem uma posição fixa 
 
 
-cada ELEMENTO só sabem qual é o seu próprio valor e que é o seu PROXIMO
+cada ELEMENTO só sabe qual é o seu próprio valor e que é o seu PROXIMO
 
-Para adicionar muito elementos a Lista Ligada é melhor
+Para adicionar e excluir muitos elementos a Lista Ligada é melhor 
+
+o seu tamanho é dinâmico
 
 obs: para buscar muitos elementos o Vetor é melhor
 
 representação 
-![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/d0c7cdd5-f0d2-4673-af04-ca56bfd2267c)
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/869b3228-f99c-482b-b23e-7b4e66f0aaed)
+
+vamos ao código
+---
+
+Vamos Criar uma Classe para Representar a Lista Ligada ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/c73cb7c7-f393-4d36-b8a6-0ef6c454a92b)
+
+LISTA LIGADA
+
+
+oque a lista sabe ?
+
+quem é seu primeiro e ultimo valor 
+
+na lista ligada vamos criar o conceito da lista que foi citado:
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/62f6f4d7-edeb-4b3a-8cf0-e336ce66b529)
+
+
+ELEMENTOS
+
+cada bolinha representada vamos chamar de elemento ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/0703e974-b138-492f-b215-5f1c9542d14f)
+
+
+então vamos criar a classe Elemento(alguns chamam de nó/node) ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/ca9ee0dc-952f-46e0-be6c-8ee27b71ef0d)
+
+
+"cada ELEMENTO só sabe qual é o seu próprio valor e que é o seu PROXIMO"
+
+
+e oque elemento sabe ?
+ele sabe o seu valor 
+e sabe que é o seu próximo elemento
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/4a01a381-9660-4aae-abcf-1146c88acb80)
+
+
+em Elemento vamos criar os metodos GET e SETs
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/d23ec6d2-b0dc-4b72-a8e0-fdfe9c50ebbf)
+
+
+voltando pra lista ligada vamos:
+
+-vamos adicionar uma variavel tamanho para saber o tamanho daquela lista ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/852fa398-a275-4bce-aeab-01b442ef3374)
+
+
+- ajustar o ELEMENTO ( o elemento é aquela bolinha da representação ou seja ela sabe quem é o primeiro e ultimo elemento)
+
+execução
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/66ab524d-9fb4-41e7-b804-04adefc42776)
 
 
 
-]
+
+então vamos criar os metodos GET e SET desse valores nesta classe da lista ligada 
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/e95ed7f4-212c-4612-80ed-7f099098dc8a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
