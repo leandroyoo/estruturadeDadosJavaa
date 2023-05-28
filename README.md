@@ -346,7 +346,7 @@ pois o objeto(novoElemento) e esse dado(novoValor) passam a existir
 
 .
 ---
-lógica da lista Ligada 
+lógica
 ---
 Na classe da Lista Ligada temos 
 
