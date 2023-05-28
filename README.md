@@ -321,11 +321,13 @@ então devemos criar na classe Elemento um método construtor Novo valor
 
 Entendendo como funciona o Método Adicionar
 ----
-1 entrada do dado
+1 executando o metodo adicionar 
 --
-executando o metodo adicionar ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/389ff8aa-207b-4842-ae1d-374c79574590)
+teremos a entrada do dados 
 
-2 execuçao que recebe o dado e instanciação do objeto
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/389ff8aa-207b-4842-ae1d-374c79574590)
+
+2 recebendo o dado e instanciação do objeto
  --
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/91f129a1-c2ac-4d01-aad7-3149b0b8448c)
 
