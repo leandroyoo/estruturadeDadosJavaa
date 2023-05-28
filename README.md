@@ -208,11 +208,11 @@ vamos ao código
 Vamos Criar uma Classe para Representar a Lista Ligada ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/c73cb7c7-f393-4d36-b8a6-0ef6c454a92b)
 
 LISTA LIGADA
-
+---
 
 oque a lista sabe ?
 
-quem é seu primeiro e ultimo valor 
+quem é seu primeiro e ultimo valor! 
 
 na lista ligada vamos criar o conceito da lista que foi citado:
 
@@ -220,7 +220,7 @@ na lista ligada vamos criar o conceito da lista que foi citado:
 
 
 ELEMENTOS
-
+---
 cada bolinha representada vamos chamar de elemento ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/0703e974-b138-492f-b215-5f1c9542d14f)
 
 
@@ -242,8 +242,8 @@ em Elemento vamos criar os metodos GET e SETs
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/d23ec6d2-b0dc-4b72-a8e0-fdfe9c50ebbf)
 
 
-voltando pra lista ligada vamos:
-
+voltando pra Lista L/igada vamos:
+---
 - vamos adicionar uma variavel tamanho para saber o tamanho daquela lista ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/852fa398-a275-4bce-aeab-01b442ef3374)
 
 
