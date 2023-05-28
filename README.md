@@ -324,7 +324,7 @@ Entendendo como funciona o Método Adicionar
 o metodo adiconar está dentro da classe Lista Ligada ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/5d58729c-84f9-4b99-a543-132a7b3558bc)
 
 
-O metodo adicionar recebe o dado(novoValor) dentro do seu parametro
+recebe o dado(novoValor) dentro do seu parametro
  
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/91f129a1-c2ac-4d01-aad7-3149b0b8448c)
 
