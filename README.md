@@ -331,17 +331,17 @@ executando o metodo adicionar ![image](https://github.com/leandroyoo/estruturade
 
 o metodo adiconar recebe o dado(novoValor) dentro do seu parametro
 
-criar o um novo objeto(novoElemento) instanciado a classe Elemento
+instanciado a classe Elemento criando um objeto(novoElemento) 
 
-então temos o objeto(novoElemento) com o dado do tipo string("RJ") no seu interior
+então temos o objeto(novoElemento) com o dado(novoValor) no seu interior
 
 3 criação do objeto com o dado recebido
 ---
 A classe Elemento executa o metodo construtor recebendo o dado
  
-temos então o objeto da classe elemento tonando a existencia 
+classe elemento tornam a existencia o novo objeto 
  
-pois o novo objeto(novoElemento) e esse novo dado(novoValor) passam a existir
+pois o objeto(novoElemento) e esse dado(novoValor) passam a existir
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/4264823b-e8e9-448c-b0bc-8351c4f5acab)
 
