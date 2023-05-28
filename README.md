@@ -256,7 +256,7 @@ execução
 
 
 
-então vamos criar os metodos GET e SET desse valores nesta classe da lista ligada 
+nesta classe da lista ligada  vamos criar os metodos GET e SET desse valores 
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/e95ed7f4-212c-4612-80ed-7f099098dc8a)
 
