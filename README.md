@@ -346,27 +346,32 @@ pois o objeto(novoElemento) e esse dado(novoValor) passam a existir
 
 .
 ---
-Logica pra adiconar
+lógica da lista Ligada 
 ---
+Na classe da Lista Ligada temos 
+
 
 this.primeiro 
+
 this.ultimo 
-são 
+
+
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/48a8fb36-a45e-4ee7-a259-e505447b8d21)
 
 
-lógica da lista
 
+Logica pra adiconar
+ 
+se 
 primeiro nullo e ultimo nullo = lista vazia
 
 então novoElemento vai ser o primeiro da lista!
 
-tamanho++ vai adicionar +1 ao seu valor a cada objeto na lista!!
-
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/9fa69d04-893e-443a-8254-8309176816f3)
 
+o tamanho++ vai adicionar +1 ao seu valor a cada Elemento na lista!!
 
 executando
 ---
