@@ -321,19 +321,22 @@ então devemos criar na classe Elemento um método construtor Novo valor
 
 Entendendo como funciona o Método Adicionar
 ----
-
-
+1
+--
 executando o metodo adicionar ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/389ff8aa-207b-4842-ae1d-374c79574590)
 
+2
+ --
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/91f129a1-c2ac-4d01-aad7-3149b0b8448c)
 
 o metodo adiconar recebe o dado(novoValor) dentro do seu parametro
 
 criar o um novo objeto(novoElemento) instanciado a classe Elemento
- 
-![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/91f129a1-c2ac-4d01-aad7-3149b0b8448c)
-
 
 então temos o objeto(novoElemento) com o dado do tipo string("RJ") no seu interior
+.
+---
+
 
 No momento em que ele executa a instancia 
 
