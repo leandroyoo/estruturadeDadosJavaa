@@ -242,7 +242,7 @@ em Elemento vamos criar os metodos GET e SETs
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/d23ec6d2-b0dc-4b72-a8e0-fdfe9c50ebbf)
 
 
-voltando pra Lista L/igada vamos:
+voltando pra Lista Ligada
 ---
 - vamos adicionar uma variavel tamanho para saber o tamanho daquela lista ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/852fa398-a275-4bce-aeab-01b442ef3374)
 
