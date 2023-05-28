@@ -186,8 +186,7 @@ resultado:
 ---
 Lista Ligada (Lista Encadeada)
 ---
-Diferenças em Realções aos Vetores
----
+
 Na lista ligada os elementos não tem uma posição fixa 
 
 
@@ -195,7 +194,7 @@ os elementos cada elemento só sabem qual é o seu valor e que é o seu próximo
 
 Para adicionar muito elementos a Lista Ligada é melhor
 
-Para buscar muitos elementos o Vetor é melhor
+obs: ara buscar muitos elementos o Vetor é melhor
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/d0c7cdd5-f0d2-4673-af04-ca56bfd2267c)
 
