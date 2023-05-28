@@ -321,30 +321,43 @@ então devemos criar na classe Elemento um método construtor Novo valor
 
 Entendendo como funciona o Método Adicionar
 ----
-o metodo adiconar está dentro da classe Lista Ligada ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/5d58729c-84f9-4b99-a543-132a7b3558bc)
+dentro da classe Lista Ligada ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/5d58729c-84f9-4b99-a543-132a7b3558bc)
 
 
-recebe o dado(novoValor) dentro do seu parametro
+o metodo adiconar recebe o dado(novoValor) dentro do seu parametro
  
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/91f129a1-c2ac-4d01-aad7-3149b0b8448c)
 
 adicionando um novo dado no seu parametro![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/389ff8aa-207b-4842-ae1d-374c79574590)
 
 
-ele vai criar o objeto(novoElemento) instanciado a classe Elemento ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/7ee7c8dd-40aa-4f04-b825-3f274330e954)
+ele vai criar o um novo objeto(novoElemento) instanciado a classe Elemento ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/7ee7c8dd-40aa-4f04-b825-3f274330e954)
  
-então temos o objeto(novoElemento) com o dado("RJ")
+então temos o objeto(novoElemento) com o dado do tipo string("RJ") no seu interior
 
 no momento da instacia 
 
 A classe Elemento executa o metodo construtor 
 
-Entao ai novo objeto(novoElemento) e esse novo dado(novoValor) tendo assim um o objeto da classe elemento tonando a existencia 
+Entao ai o novo objeto(novoElemento) e esse novo dado(novoValor) passam a existir temos então o objeto da classe elemento tonando a existencia 
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/4264823b-e8e9-448c-b0bc-8351c4f5acab)
 
+Conclusão da explicação 
+----
+entrada do dado
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/d2468f05-589c-4bac-97a2-2cb62eb7b112)
 
 
+execuçao que recebe o dado e instancia o objeto
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/3b94dc37-9cac-4228-9f87-5437be741d82)
+
+
+criação do objeto com o dado que recebeu
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/1678dd31-4bfb-4560-8017-aa5c345f3b64)
 
 
 
