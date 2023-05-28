@@ -383,10 +383,14 @@ então teremos o resultado ![image](https://github.com/leandroyoo/estruturadeDad
 adicionando mais valores 
 ---
 
-se eu tentar adicionar outros valores nao vou obter sucesso ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/6cc1e594-3459-4de8-979e-97571e3b5323)
+se eu tentar adicionar outros valores nao vou obter sucesso 
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/6cc1e594-3459-4de8-979e-97571e3b5323)
 
 
-pois trará o mesmo resultado ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/936ecbe8-227d-4a7e-9d50-b9d92619d4da)
+pois trará o mesmo resultado 
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/936ecbe8-227d-4a7e-9d50-b9d92619d4da)
 
 
 então terei que mexer nessa lógica 
@@ -397,13 +401,13 @@ representação
 
 
 
-lembrando que elemento sabe quem é o seu próximo 
+lembrando que na Classe elemento sabe quem é o seu próximo 
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/dd0da9fd-4ddd-4ca4-a59b-a3a36c31ee3a)
 
 
 
-na estrutra acima criaremos um else(senão)
+criaremos um else(senão) 
 
 
 pois se o  RJ é o primeiro e ultimo então ao entrar um novo dado terá de ser o próximo no caso a BA 
