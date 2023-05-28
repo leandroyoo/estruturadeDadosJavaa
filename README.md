@@ -190,7 +190,7 @@ Lista Ligada (Lista Encadeada)
 Na lista ligada os elementos não tem uma posição fixa 
 
 
-os elementos cada elemento só sabem qual é o seu valor e que é o seu próximo
+cada ELEMENTO só sabem qual é o seu próprio valor e que é o seu PROXIMO
 
 Para adicionar muito elementos a Lista Ligada é melhor
 
