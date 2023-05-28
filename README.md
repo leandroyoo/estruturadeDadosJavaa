@@ -418,7 +418,7 @@ o ultimo da lista vai sempre setar esse novo objeto como o proximo e deixar de s
 
 então e esse novo dado se tornará o ultimo da lista 
 
-o tamanho++ foi pra fora do if e else pq independe de por onde passar o tamanho aumentará
+o tamanho++ foi pra fora do if e else pq independe de por onde passar no if ou else tamanho da Lista ligada aumentará
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/4779add2-6ca9-4a6f-a6fd-f46dce39aa08)
 
