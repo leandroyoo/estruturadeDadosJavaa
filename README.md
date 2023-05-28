@@ -350,13 +350,13 @@ lógica da lista Ligada
 ---
 Na classe da Lista Ligada temos 
 
-os seguintes dados e um metodo construtor:
+os seguintes dados
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/ba6df03e-09ab-4b01-895b-e4b38e3abc7a)
 
 
 Logica pra adiconar
- 
+ ---
 se 
 primeiro nullo e ultimo nullo = lista vazia
 
