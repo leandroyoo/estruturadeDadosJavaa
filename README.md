@@ -482,3 +482,20 @@ observe
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/0972bbcf-6719-4d64-acb0-104d46553311)
 
+
+
+
+testando
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/a600adc8-5a17-4c91-9fda-ff84997a18ca)
+
+
+obteremos 
+
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/d1b4fa5e-aa7f-41cc-943b-e09bc3b731dc)
+
+
+
+
+
