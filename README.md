@@ -393,36 +393,38 @@ pois trará o mesmo resultado
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/936ecbe8-227d-4a7e-9d50-b9d92619d4da)
 
 
+
+
+A Classe Elemento sabe quem é o seu próximo 
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/dd0da9fd-4ddd-4ca4-a59b-a3a36c31ee3a)
+
+
+
+
 então terei que mexer nessa lógica 
 
+pois se o  AC é o primeiro e ultimo então ao entrar um novo dado terá de ser o próximo no caso a BA 
+
+
+então AC vai indentificar que ele tem um próximo e vai deixar de ser o ultimo da lista!
 representação 
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/7fc348e2-4bba-4802-9a94-92e261d91f95)
 
 
 
-lembrando que na Classe elemento sabe quem é o seu próximo 
-
-![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/dd0da9fd-4ddd-4ca4-a59b-a3a36c31ee3a)
-
-
-
 criaremos um else(senão) 
 
+caind no else o ultimo vai setar como proximo esse elemento 
 
-pois se o  RJ é o primeiro e ultimo então ao entrar um novo dado terá de ser o próximo no caso a BA 
+o elemento que entrar vai se torna o ultimo .
 
-então RJ vai indentificar que ele tem um próximo e vai deixar de ser o ultimo da lista!
+e conforme for sendo inseridos novos dados vao sempre cair no else pois primeiro e ultimo já estarão preeenchidos 
 
-se inserimos também CE ele vai cair no else o ultimo vai setar como proximo esse elemento e vai ele vai se tornar o ultimo 
+e o ultimo da lista vai estar sempre setando esse novo objeto como o proximo e deixando de ser o ultimo da lista
 
-e a cada dado que for inserido vai caindo no else pois primeiro e ultimo já estarão preeenchidos 
-
-o ultimo da lista vai sempre setar esse novo objeto como o proximo e deixar de ser o ultimo da lista
-
-então e esse novo dado se tornará o ultimo da lista 
-
-o tamanho++ foi pra fora do if e else pq independe de por onde passar no if ou else tamanho da Lista ligada aumentará
+e cada objeto inserido  vai aumentando o tamanho++ independente se caia em if/else
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/4779add2-6ca9-4a6f-a6fd-f46dce39aa08)
 
