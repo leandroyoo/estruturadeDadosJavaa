@@ -333,15 +333,13 @@ o metodo adiconar recebe o dado(novoValor) dentro do seu parametro
 
 instancia a classe Elemento criando um objeto(novoElemento) 
 
-então temos o objeto(novoElemento) com o dado(novoValor) no seu interior
 
 3 criação do objeto com o dado recebido
 ---
-A classe Elemento executa o metodo construtor recebendo esse objeto
- 
-ai a classe elemento torna a existencia o novo objeto 
- 
-pois o objeto(novoElemento) e esse dado(novoValor) passam a existir
+A classe Elemento executa o metodo construtor recebendo esse valor
+
+passa o dado inserido para o atributo valor do objeto instanciado
+
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/4264823b-e8e9-448c-b0bc-8351c4f5acab)
 
