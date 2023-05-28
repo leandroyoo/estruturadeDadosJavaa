@@ -335,7 +335,7 @@ criar o um novo objeto(novoElemento) instanciado a classe Elemento
 
 então temos o objeto(novoElemento) com o dado do tipo string("RJ") no seu interior
 
-criação do objeto com o dado que recebeu
+3 criação do objeto com o dado recebido
 ---
 A classe Elemento executa o metodo construtor recebendo o dado
  
