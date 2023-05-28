@@ -446,6 +446,39 @@ Metodo Get
 ---
 
 
+Sabemos quem é o primeiro e quem é o ultimo
+
+vamos criar a variavel posição que vai ser inserida para buscarmos 
+
+dentro do array aquela posiçao.
+
+a posição será a variavel de controle  
 
 
+criaremos a variavel atual invocando  da classe elemento o primeiro Elemento da lista para obtermos um ponto de partida.
+
+
+então se 
+	atual não tiver proximo 
+
+		se proximo for diferente de null  (que seria o fim da lista)
+		
+		o atual vai ser ele mesmo!
+
+		
+             atual(rj)=this.primiero---getProximo(ba)----getproximo(ge)
+
+ou seja a cada passada no loop ele vai verificando se nao 
+acabou o array 
+
+e a cada passada ele vai escrevendo na variavel atual o valor 
+
+e a variavel de controle de posicao vai avançando e contando ate chega na posição escrita ex(4)
+
+e o return vai retorna a posicao que queremos.
+
+
+observe 
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/0972bbcf-6719-4d64-acb0-104d46553311)
 
