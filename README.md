@@ -321,31 +321,31 @@ então devemos criar na classe Elemento um método construtor Novo valor
 
 Entendendo como funciona o Método Adicionar
 ----
-o metodo adicionar recebe um novo valor no seu parametro![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/389ff8aa-207b-4842-ae1d-374c79574590)
+o metodo adiconar está dentro da classe Lista Ligada ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/5d58729c-84f9-4b99-a543-132a7b3558bc)
 
 
-ai o metodo adiconar que está dentro da classe Lista Ligada ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/5d58729c-84f9-4b99-a543-132a7b3558bc)
-
-
-cria o objeto(novoElemento) instanciado a classe Elemento ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/7ee7c8dd-40aa-4f04-b825-3f274330e954)
-
-
- e recebe do parametro do metodoadicinar o dado(novoValor)
+O metodo adicionar recebe o dado(novoValor) dentro do seu parametro
  
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/91f129a1-c2ac-4d01-aad7-3149b0b8448c)
 
+adicionando um novo dado no seu parametro![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/389ff8aa-207b-4842-ae1d-374c79574590)
+
+
+ele vai criar o objeto(novoElemento) instanciado a classe Elemento ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/7ee7c8dd-40aa-4f04-b825-3f274330e954)
+ 
+ 
 então criado esse objeto(novoElemento) com o seu respectivo dado ("RJ")
 
 no momento da instacia 
 
 A classe Elemento executa o metodo construtor 
 
-Entao ai novo objeto(novoElemento) e esse novo dado(novoValor) passar existir dentro de elemento 
+Entao ai novo objeto(novoElemento) e esse novo dado(novoValor) passar existir dentro da classe Elemento 
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/4264823b-e8e9-448c-b0bc-8351c4f5acab)
 
-tendo assim um novo elemento tornando a existencia
 
+tendo assim um novo elemento tornando a existencia
 
 
 
