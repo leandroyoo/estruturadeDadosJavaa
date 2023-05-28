@@ -340,12 +340,11 @@ no momento da instacia
 
 A classe Elemento executa o metodo construtor 
 
-Entao ai novo objeto(novoElemento) e esse novo dado(novoValor) passar existir dentro da classe Elemento 
+Entao ai novo objeto(novoElemento) e esse novo dado(novoValor) tendo assim um o objeto da classe elemento tonando a existencia 
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/4264823b-e8e9-448c-b0bc-8351c4f5acab)
 
 
-tendo assim um novo elemento tornando a existencia
 
 
 
