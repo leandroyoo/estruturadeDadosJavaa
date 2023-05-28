@@ -321,6 +321,10 @@ então devemos criar na classe Elemento um método construtor Novo valor
 
 Entendendo como funciona o Método Adicionar
 ----
+
+
+
+
 1 executando o metodo adicionar 
 --
 teremos a entrada do dados 
@@ -331,18 +335,21 @@ teremos a entrada do dados
  --
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/91f129a1-c2ac-4d01-aad7-3149b0b8448c)
 
-o metodo adiconar recebe o dado(novoValor) dentro do seu parametro
+ao instanciar um objeto aprendemos que 
 
-instancia a classe Elemento criando um objeto(novoElemento) 
+Você pode substituir Elemento() pelo construtor apropriado se a classe tiver parâmetros.
+
+o metodo adiconar recebe o parametro e cria o objeto.
+
 
 
 3 criação do objeto com o dado recebido
 ---
-A classe Elemento executa o metodo construtor recebendo esse valor
+A classe Elemento recebendo esse valor executa o metodo construtor
 
-passa o dado inserido para o atributo valor do objeto instanciado
+passa o dado inserido para o valor do objeto instanciado
 
-pois o objeto(novoElemento) e esse dado(novoValor) passam a existir
+pois o objeto(novoElemento) e seu atributo (novoValor) passam a existir
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/4264823b-e8e9-448c-b0bc-8351c4f5acab)
 
