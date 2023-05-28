@@ -331,7 +331,7 @@ executando o metodo adicionar ![image](https://github.com/leandroyoo/estruturade
 
 o metodo adiconar recebe o dado(novoValor) dentro do seu parametro
 
-instanciado a classe Elemento criando um objeto(novoElemento) 
+instancia a classe Elemento cria um objeto(novoElemento) 
 
 então temos o objeto(novoElemento) com o dado(novoValor) no seu interior
 
