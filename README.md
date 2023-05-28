@@ -333,8 +333,7 @@ adicionando um novo dado no seu parametro![image](https://github.com/leandroyoo/
 
 ele vai criar o objeto(novoElemento) instanciado a classe Elemento ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/7ee7c8dd-40aa-4f04-b825-3f274330e954)
  
- 
-então criado esse objeto(novoElemento) com o seu respectivo dado ("RJ")
+
 
 no momento da instacia 
 
