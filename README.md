@@ -380,4 +380,61 @@ tamanho da lista
 
 então teremos o resultado ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/1d846595-b51a-4977-b1ff-18626bb0756b)
 
+adicionando mais valores 
+---
+
+se eu tentar adicionar outros valores nao vou obter sucesso ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/6cc1e594-3459-4de8-979e-97571e3b5323)
+
+
+pois trará o mesmo resultado ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/936ecbe8-227d-4a7e-9d50-b9d92619d4da)
+
+
+então terei que mexer nessa lógica 
+
+representação 
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/7fc348e2-4bba-4802-9a94-92e261d91f95)
+
+
+
+lembrando que elemento sabe quem é o seu próximo 
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/dd0da9fd-4ddd-4ca4-a59b-a3a36c31ee3a)
+
+
+
+na estrutra acima criaremos um else(senão)
+
+
+pois se o  RJ é o primeiro e ultimo então ao entrar um novo dado terá de ser o próximo no caso a BA 
+
+então RJ vai indentificar que ele tem um próximo e vai deixar de ser o ultimo da lista!
+
+se inserimos também CE ele vai cair no else o ultimo vai setar como proximo esse elemento e vai ele vai se tornar o ultimo 
+
+e a cada dado que for inserido vai caindo no else pois primeiro e ultimo já estarão preeenchidos 
+
+o ultimo da lista vai sempre setar esse novo objeto como o proximo e deixar de ser o ultimo da lista
+
+então e esse novo dado se tornará o ultimo da lista 
+
+o tamanho++ foi pra fora do if e else pq independe de por onde passar o tamanho aumentará
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/9adfe138-1a53-48d0-b0fb-90664b2b97f6)
+
+
+
+Executando
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/8ed6b962-4ee1-49e3-8408-4d54d5b26575)
+
+
+obterei o resultado 
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/cc839683-5ed4-4722-8b26-342f6dd2f34a)
+
+
+
+
+
+
+
 
