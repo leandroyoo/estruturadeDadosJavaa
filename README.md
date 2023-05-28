@@ -337,7 +337,7 @@ então temos o objeto(novoElemento) com o dado(novoValor) no seu interior
 
 3 criação do objeto com o dado recebido
 ---
-A classe Elemento executa o metodo construtor que recebe aquele objeto com o dado no seu interior
+A classe Elemento executa o metodo construtor recebendo esse objeto
  
 ai a classe elemento torna a existencia o novo objeto 
  
