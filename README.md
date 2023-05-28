@@ -420,9 +420,7 @@ então e esse novo dado se tornará o ultimo da lista
 
 o tamanho++ foi pra fora do if e else pq independe de por onde passar o tamanho aumentará
 
-![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/9adfe138-1a53-48d0-b0fb-90664b2b97f6)
-
-
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/4779add2-6ca9-4a6f-a6fd-f46dce39aa08)
 
 Executando
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/8ed6b962-4ee1-49e3-8408-4d54d5b26575)
