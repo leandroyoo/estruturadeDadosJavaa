@@ -344,13 +344,38 @@ pois o objeto(novoElemento) e esse dado(novoValor) passam a existir
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/4264823b-e8e9-448c-b0bc-8351c4f5acab)
 
+.
+---
+Logica pra adiconar
+---
+
+this.primeiro 
+this.ultimo 
+são 
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/48a8fb36-a45e-4ee7-a259-e505447b8d21)
 
 
+lógica da lista
+
+primeiro nullo e ultimo nullo = lista vazia
+
+então novoElemento vai ser o primeiro da lista!
+
+tamanho++ vai adicionar mais um objeto na lista!
 
 
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/9fa69d04-893e-443a-8254-8309176816f3)
 
 
+executando
+---
+adicionando essa logica já conseguimos inserir o primeiro elemento
 
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/91555b44-0b8b-48fa-9124-a3773cd93ad0)
+
+
+observe:![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/44a88e98-3448-40fa-a689-df3f394b9278)
 
 
 
