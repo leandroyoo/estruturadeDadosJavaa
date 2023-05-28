@@ -422,11 +422,14 @@ o tamanho++ foi pra fora do if e else pq independe de por onde passar o tamanho 
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/4779add2-6ca9-4a6f-a6fd-f46dce39aa08)
 
-Executando
+Executando o código acima
+
+
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/8ed6b962-4ee1-49e3-8408-4d54d5b26575)
 
 
 obterei o resultado 
+
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/cc839683-5ed4-4722-8b26-342f6dd2f34a)
 
 
