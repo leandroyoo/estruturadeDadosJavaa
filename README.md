@@ -412,11 +412,13 @@ representação
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/7fc348e2-4bba-4802-9a94-92e261d91f95)
 
+Criaremos um Else (Senão)
+---
 
-
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/4779add2-6ca9-4a6f-a6fd-f46dce39aa08)
 criaremos um else(senão) 
 
-caind no else o ultimo vai setar como proximo esse elemento 
+caindo no else o ultimo vai setar como proximo esse elemento 
 
 o elemento que entrar vai se torna o ultimo .
 
@@ -426,10 +428,8 @@ e o ultimo da lista vai estar sempre setando esse novo objeto como o proximo e d
 
 e cada objeto inserido  vai aumentando o tamanho++ independente se caia em if/else
 
-![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/4779add2-6ca9-4a6f-a6fd-f46dce39aa08)
 
-Executando o código acima
-
+então rodando
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/8ed6b962-4ee1-49e3-8408-4d54d5b26575)
 
