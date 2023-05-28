@@ -244,7 +244,7 @@ em Elemento vamos criar os metodos GET e SETs
 
 voltando pra lista ligada vamos:
 
--vamos adicionar uma variavel tamanho para saber o tamanho daquela lista ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/852fa398-a275-4bce-aeab-01b442ef3374)
+- vamos adicionar uma variavel tamanho para saber o tamanho daquela lista ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/852fa398-a275-4bce-aeab-01b442ef3374)
 
 
 - ajustar o ELEMENTO ( o elemento é aquela bolinha da representação ou seja ela sabe quem é o primeiro e ultimo elemento)
