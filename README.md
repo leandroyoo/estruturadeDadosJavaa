@@ -186,7 +186,8 @@ resultado:
 ---
 Lista Ligada (Lista Encadeada)
 ---
-
+Diferenças em Realções aos Vetores
+---
 Na lista ligada os elementos não tem uma posição fixa 
 
 
