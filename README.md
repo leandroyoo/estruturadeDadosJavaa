@@ -318,6 +318,21 @@ então devemos criar na classe Elemento um método construtor Novo valor
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/ba2c2a46-1877-4c5c-8232-37ac0396d924)
 
+O método construtor em uma classe tem a finalidade de inicializar os objetos dessa classe. 
+
+Ele é chamado no momento da criação do objeto, quando utilizamos a palavra-chave "new", e é responsável por configurar o estado inicial do objeto.
+
+
+Inicialização de atributos: O construtor é usado para atribuir valores iniciais aos atributos do objeto. 
+
+Por exemplo, ele pode receber parâmetros que representam os valores iniciais dos atributos e atribuí-los a esses atributos durante a criação do objeto.
+
+
+
+
+
+
+
 
 Entendendo como funciona o Método Adicionar
 ----
