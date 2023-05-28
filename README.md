@@ -416,7 +416,6 @@ Criaremos um Else (Senão)
 ---
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/4779add2-6ca9-4a6f-a6fd-f46dce39aa08)
-criaremos um else(senão) 
 
 caindo no else o ultimo vai setar como proximo esse elemento 
 
