@@ -350,15 +350,9 @@ lógica da lista Ligada
 ---
 Na classe da Lista Ligada temos 
 
+os seguintes dados e um metodo construtor:
 
-this.primeiro 
-
-this.ultimo 
-
-
-
-![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/48a8fb36-a45e-4ee7-a259-e505447b8d21)
-
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/ba6df03e-09ab-4b01-895b-e4b38e3abc7a)
 
 
 Logica pra adiconar
