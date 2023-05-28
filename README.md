@@ -360,21 +360,24 @@ Logica pra adiconar
 se 
 primeiro nullo e ultimo nullo = lista vazia
 
-então novoElemento vai ser o primeiro da lista!
+então novoElemento vai ser o primeiro da lista e também o ultimo valor da lista!
 
-
-![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/9fa69d04-893e-443a-8254-8309176816f3)
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/4175b27d-ca39-40c9-9ef9-c1347f7e9d96)
 
 o tamanho++ vai adicionar +1 ao seu valor a cada Elemento na lista!!
 
 executando
 ---
-adicionando essa logica já conseguimos inserir o primeiro elemento
+adicionando essa logica já conseguimos inserir o primeiro elemento e pegar 
 
-![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/91555b44-0b8b-48fa-9124-a3773cd93ad0)
+o primeiro valor
 
+o ultimo valor
 
-observe:![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/44a88e98-3448-40fa-a689-df3f394b9278)
+tamanho da lista 
 
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/d024abfc-8428-4e9c-a4a0-17d5e120fce0)
+
+então teremos o resultado ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/1d846595-b51a-4977-b1ff-18626bb0756b)
 
 
