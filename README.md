@@ -362,7 +362,7 @@ primeiro nullo e ultimo nullo = lista vazia
 
 então novoElemento vai ser o primeiro da lista!
 
-tamanho++ vai adicionar mais um objeto na lista!
+tamanho++ vai adicionar +1 ao seu valor a cada objeto na lista!!
 
 
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/9fa69d04-893e-443a-8254-8309176816f3)
