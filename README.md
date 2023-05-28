@@ -261,8 +261,90 @@ na classe Lista Ligada  vamos criar os metodos GET e SET
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/e95ed7f4-212c-4612-80ed-7f099098dc8a)
 
 
+Oque a Lista Ligada tem que fazer?
+--
+- Adicionar Elementos 
+
+- Remover Elementos
+
+- Pegar Elementos
+
+então vamos criar esses metodos:
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/cc647df9-925b-4de0-9b5c-c6b762b7c4a6)
 
 
+agora vamos criar o nossa classe programa ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/7df83daa-a86c-4fcd-9b38-e78cce8f4062)
+
+na classe programa vamos utilizar o metodo construtor e criar uma lista
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/8df2bf0e-bcf2-43b0-be24-69cc58d9445b)
+
+
+só que quando criamos a lista ela ainda tá vázia então temos que criar-la na lista ligada o método construtor 
+
+quando criarmos a lista o tamanho dela é 0
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/50b4b2b9-7b5e-4275-842c-5a298d3a3f41)
+
+
+Então observe que
+
+ao pegar o tamanho da nossa lista 
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/5d0307ac-da32-4f05-9e26-613e94e50723)
+
+
+o tamanho retorna  ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/d0b47a81-643e-4bc2-a271-c3ed1df3df11)
+
+
+
+Metodos da Lista
+---
+
+- Metodo Adicionar  
+
+se eu quero adicionar um elemento eu vou criar um elemento 
+
+e dentro desse elemento vai adicionar o novoValor
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/ee3c5267-78db-44d4-8872-c79016381573)
+
+o erro aconteceu ai porque essa bolinha(elemento) está fora da lista 
+
+e como se fosse uma bolinha(elemento) viajando pelo espaço 
+
+então devemos criar na classe Elemento um método construtor Novo valor 
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/ba2c2a46-1877-4c5c-8232-37ac0396d924)
+
+
+Entendendo como funciona o Método Adicionar
+----
+o metodo adicionar recebe um novo valor no seu parametro![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/389ff8aa-207b-4842-ae1d-374c79574590)
+
+
+ai o metodo adiconar que está dentro da classe Lista Ligada ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/5d58729c-84f9-4b99-a543-132a7b3558bc)
+
+
+cria o objeto(novoElemento) instanciado a classe Elemento ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/7ee7c8dd-40aa-4f04-b825-3f274330e954)
+
+
+ e recebe do parametro do metodoadicinar o dado(novoValor)
+ 
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/91f129a1-c2ac-4d01-aad7-3149b0b8448c)
+
+então criado esse objeto(novoElemento) com o seu respectivo dado ("RJ")
+
+no momento da instacia 
+
+A classe Elemento executa o metodo construtor 
+
+Entao ai novo objeto(novoElemento) e esse novo dado(novoValor) passar existir dentro de elemento 
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/4264823b-e8e9-448c-b0bc-8351c4f5acab)
+
+tendo assim um novo elemento tornando a existencia
 
 
 
