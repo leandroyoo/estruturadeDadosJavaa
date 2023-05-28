@@ -321,21 +321,21 @@ então devemos criar na classe Elemento um método construtor Novo valor
 
 Entendendo como funciona o Método Adicionar
 ----
-dentro da classe Lista Ligada ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/5d58729c-84f9-4b99-a543-132a7b3558bc)
+
+
+executando o metodo adicionar ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/389ff8aa-207b-4842-ae1d-374c79574590)
 
 
 o metodo adiconar recebe o dado(novoValor) dentro do seu parametro
+
+criar o um novo objeto(novoElemento) instanciado a classe Elemento
  
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/91f129a1-c2ac-4d01-aad7-3149b0b8448c)
 
-adicionando um novo dado no seu parametro![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/389ff8aa-207b-4842-ae1d-374c79574590)
 
-
-ele vai criar o um novo objeto(novoElemento) instanciado a classe Elemento ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/7ee7c8dd-40aa-4f04-b825-3f274330e954)
- 
 então temos o objeto(novoElemento) com o dado do tipo string("RJ") no seu interior
 
-no momento da instacia 
+No momento em que ele executa a instancia 
 
 A classe Elemento executa o metodo construtor 
 
