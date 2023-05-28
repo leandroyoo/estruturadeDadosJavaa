@@ -304,6 +304,9 @@ Metodos da Lista
 
 - Metodo Adicionar  
 
+
+vou criar da classe Elemento o objeto novoElemento(1..2..3) que vaõ receber parametros usado para atribuir valores iniciais aos atributos do objeto.
+
 se eu quero adicionar um elemento eu vou criar um elemento 
 
 e dentro desse elemento vai adicionar o novoValor
