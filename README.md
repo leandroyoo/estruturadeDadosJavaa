@@ -523,22 +523,22 @@ obteremos
 
 Metodo de Remover
 ---
-    a função vai receber o parametro do valor procurado
+ a função vai receber o parametro do valor procurado
        
-       variavel pra pegar o elemento anterior
+variavel pra pegar o elemento anterior
 
-      variavel para pegar o primeiro elemento
+variavel para pegar o primeiro elemento
 
-    se 
+se 
     	no valor atual for equivalente o valor procurado(encontrou o valor)
 
-   então 
+então 
 
   	variavel anterior seta seu proximo como o atual.getProximo()
   	e atual desaparece;
   
  
- (senão) o valor nao for equivalente 
+(senão) o valor nao for equivalente 
 	a variavel(anterior) antes de avançar guarda o valor. (anterior = atual;)
             
          a variavel(atual) avança para o proximo da lista.
