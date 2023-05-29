@@ -544,10 +544,11 @@ Metodo de Remover
          a variavel(atual) avança para o proximo da lista.
             atual = atual.getProximo();
 	    
+
+
+observe o código
 	    
-	    observe o código
-	    
-	    ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/d47b0eb6-a70d-4426-9349-fecced54baea)
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/d47b0eb6-a70d-4426-9349-fecced54baea)
 
   
   
