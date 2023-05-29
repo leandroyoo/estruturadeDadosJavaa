@@ -571,3 +571,9 @@ RESULTADO
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/52cff1e5-67aa-4e06-8df9-d056d05a9786)
 
 
+
+
+Melhorando o código
+---
+assim poderemos excluir o elemnto primeiro o ultimo e os do meio
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/55d5ba05-73a6-414a-8e92-2dbba9666690)
