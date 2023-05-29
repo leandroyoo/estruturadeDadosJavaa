@@ -555,7 +555,23 @@ observe o código
 	    
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/d47b0eb6-a70d-4426-9349-fecced54baea)
 
+
+AO RODAR O METODO REMOVER 
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/b4197cda-a405-424e-81fd-e47da1f4271b)
+
+TEREMOS ESSE RESULTADO 
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/23bd4f41-1fea-4e55-9e24-f8633ef5c5e3)
+
   
-  
+COMO O TAMANHO É IGUAL A 4 TEMOS QUE MODIFICAR ISSO 
+
+obser na linha tamanho ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/67390bd5-d931-419c-8988-5871bf6b66a9)
+
+ENTÃO NOSSO CÓDIGO ESTARA COMPLETO 
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/46c0a13e-87bb-48cd-a8c9-69af273f62ec)
+
 
 
