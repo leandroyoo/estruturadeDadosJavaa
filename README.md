@@ -577,3 +577,132 @@ Melhorando o código
 ---
 assim poderemos excluir o elemnto primeiro o ultimo e os do meio
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/55d5ba05-73a6-414a-8e92-2dbba9666690)
+
+LISTA LIGADA GENERICA 
+---
+usando o generics 
+Na lista 
+fazemos nas variaveis E nos seus GET E SET
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/753fd645-6ab9-4eb4-95f4-fc7f8827b450)
+
+
+e também nos metodos 
+
+METODO ADICIONAR 
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/8e82b047-4c31-40c0-96a6-22f5f16f2abc)
+
+METODO REMOVER 
+
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/c15ead30-5dfc-4706-b06e-caf7f3021286)
+
+
+em Elementos 
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/15df47ae-c102-4cdb-9cb8-171e72f3d12d)
+
+
+
+
+criando a classe cliente ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/b4fd1893-dd8e-48a9-b24c-42329473c188)
+
+
+
+
+Tipo de lISTAS 
+
+INTEIRO ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/f8d80c05-1296-4eed-a17d-89abc8f8df51)
+
+STRING ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/098507fd-1052-4026-a7a4-336326172ce8)
+
+CLIENTE ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/976328b2-1de0-4127-b70b-66cfd55ed859)
+
+
+
+CRIANDO UMA LISTA DE NUMEROS ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/eaf32193-06c5-493e-8fb9-d194ebcd7333)
+
+RODANDO O CODIGO
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/7dd71fef-5d2e-4457-bb9a-cd7931d2fce8)
+
+
+RESULTADO 
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/a8bfe199-87f4-4d75-bc31-742e1661724e)
+
+
+
+CRIANDO UMA LISTA DE CLIENTES
+
+CRIANDO A CLASSE CLIENTE
+
+SEUS METODOS GETS SETS 
+
+E O METODO PUBLIC 
+
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/ed4fc3d7-1c85-4271-af75-dd2e93c81b4b)
+
+
+rodando na classe ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/840326c9-f017-41e0-be4f-b9af7a076ad4)
+
+
+rodando 
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/8c3f2c5b-68c1-4fff-8bff-1df3d67ee23d)
+
+
+result
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/b4508697-b23b-41f2-9ec6-7ce5aa5b3d73)
+
+
+para acertar devemos em clientes declarar o metodo toString
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/be89e86a-5693-4baa-8738-6335c18c0616)
+
+
+resultado 
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/c2e12b37-61c4-459f-9cce-6c442e77f197)
+
+
+
+			Agora temos uma Lista Generica similar a do java
+			
+		
+		
+Comparação do vetor e lista		
+---
+
+
+leitura
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/6620e281-8874-4ee5-93fa-bdeba2ebe4ce)
+
+
+iserçao 
+
+
+Interator Lista Ligada
+---
+
+na classe interator
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/6c432683-4365-4ed3-ad47-84a166206780)
+
+
+
+na lista ligada 
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/8d52be72-c048-40b8-a538-e4df1567cf2e)
+
+
+resultado 
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/a25c5492-1141-4daa-8525-ef1bc9abda65)
+
+
+
+
