@@ -544,6 +544,11 @@ então
          a variavel(atual) avança para o proximo da lista.
             atual = atual.getProximo();
 	    
+representação 
+
+![WhatsApp Image 2023-05-29 at 13 22 47](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/e65d88d4-684d-4c28-a199-7f69c821847f)
+
+
 
 
 observe o código
