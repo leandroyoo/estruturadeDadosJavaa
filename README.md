@@ -521,6 +521,35 @@ obteremos
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/d1b4fa5e-aa7f-41cc-943b-e09bc3b731dc)
 
 
+Metodo de Remover
+---
+    a função vai receber o parametro do valor procurado
+       
+       variavel pra pegar o elemento anterior
 
+      variavel para pegar o primeiro elemento
+
+    se 
+    	no valor atual for equivalente o valor procurado(encontrou o valor)
+
+   então 
+
+  	variavel anterior seta seu proximo como o atual.getProximo()
+  	e atual desaparece;
+  
+ 
+ (senão) o valor nao for equivalente 
+	a variavel(anterior) antes de avançar guarda o valor. (anterior = atual;)
+            
+         a variavel(atual) avança para o proximo da lista.
+            atual = atual.getProximo();
+	    
+	    
+	    observe o código
+	    
+	    ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/d47b0eb6-a70d-4426-9349-fecced54baea)
+
+  
+  
 
 
