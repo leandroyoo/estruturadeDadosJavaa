@@ -561,5 +561,13 @@ obser na linha tamanho ![image](https://github.com/leandroyoo/estruturadeDadosJa
 		obs: Apos excluir um elemento da lista o seu tamanho tem que diminuir!
 
 
+LENDO OS VALORES
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/2b26a195-84d1-4603-83bb-7e93e038a1ff)
+
+
+RESULTADO 
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/52cff1e5-67aa-4e06-8df9-d056d05a9786)
 
 
