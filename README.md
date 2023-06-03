@@ -675,14 +675,70 @@ resultado
 		
 Comparação do vetor e lista		
 ---
+Na classe comparador 
+
+Para comparar a lista vamos criar uma lista(ListaLigada) e um vetor (ArrayList).
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/7a32c2c1-57fb-4ca7-aeb2-28cc375611cd)
 
 
-leitura
+Adicionar elementos 
+vamos criar uma variavel para contabilizar numero de elementos inseridos(limite)
 
-![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/6620e281-8874-4ee5-93fa-bdeba2ebe4ce)
+vamos contabilizar a subitração do tempo final e o tempo inicial 
+
+adicionar elementos no vetor
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/a8bc97a4-5063-4894-bb82-b5bf82439f57)
 
 
-iserçao 
+adicionar elementos na lista
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/87e9bfff-e5a4-428a-8dee-f10efbf22277)
+
+
+olha que interresante
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/366f6af2-99cc-4412-b9e8-9fe248e07d13)
+
+		para adicionar elemento na lista demorou muito mais em relação ao vetor
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Interator Lista Ligada
