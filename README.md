@@ -788,7 +788,8 @@ Busca Linear
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/fc6e95ef-6725-4820-8b2d-cfdb074cc3d4)
 
 
-
+Busca Binária
+--
 
 
 
