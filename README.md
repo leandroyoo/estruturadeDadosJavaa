@@ -760,5 +760,44 @@ resultado
 ![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/a25c5492-1141-4daa-8525-ef1bc9abda65)
 
 
+Complexidade de Alogoritmos
+---
+representação explicação 
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/03c8cc50-2f97-4847-b540-66eddbd91e25)
+
+
+Processamento
+-tempo
+
+Espação(Memoria e Disco) 
+-complexidade do algoritmos
+
+
+
+Notação big O 
+
+
+![1_KfZYFUT2OKfjekJlCeYvuQ](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/ef251bdc-d307-44a4-8fa6-1a715e994b05)
+
+
+
+Busca Linear
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
