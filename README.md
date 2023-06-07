@@ -790,10 +790,19 @@ Busca Linear
 
 Busca Binária
 --
+vamos alimentar um vetor de elementos indo de 2 em 2 
 
 
 
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/e21ddede-cdd6-4fa6-aa9a-82b2f1fedeb7)
 
+
+
+agora vamos fazer a busca binaria 
+
+
+
+![image](https://github.com/leandroyoo/estruturadeDadosJavaa/assets/94478634/30df007c-3551-4a94-860c-133b71934a76)
 
 
 
